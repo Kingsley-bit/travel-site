@@ -1,4 +1,3 @@
-Here’s a well-structured README.md file for your travel website:
 
 ✈️ Travel Website
 
@@ -60,4 +59,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 This project is licensed under the MIT License.
 
-Let me know if you want any modifications!
